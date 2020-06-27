@@ -12,16 +12,18 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+body {
+  background-color: blush;
+}
 .App-header {
-  background-color: lightblue;
-  min-height: 100vh;
+  background-color: gainsboro;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:black;
 }
 
 .App-link {
@@ -37,6 +39,16 @@
   }
 }
 .portfolioImg {
-  margin: 5% 10%;
-  width: 80%;
+  margin: 5% 5%;
+  width: 40%;
+  height: 30%;
+}
+
+.nav-icon {
+  align: right;
+  height: 3rem;
+  width: 4rem;
+}
+.aboutMe {
+  font-size: medium;
 }
