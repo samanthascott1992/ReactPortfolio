@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.141ee8d5.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.fb4c6f63.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.fb4c6f63.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ad880b05.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ad880b05.js.map",
-    "static/js/2.2cbbcfaa.chunk.js": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js",
-    "static/js/2.2cbbcfaa.chunk.js.map": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.abecf64bb6b5819cbaf893b59a991228.js": "/React-Portfolio/precache-manifest.abecf64bb6b5819cbaf893b59a991228.js",
-    "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/main.141ee8d5.chunk.css.map": "/React-Portfolio/static/css/main.141ee8d5.chunk.css.map",
-    "static/js/2.2cbbcfaa.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js.LICENSE.txt",
-    "static/media/BoozyFood.PNG": "/React-Portfolio/static/media/BoozyFood.e68427c9.PNG",
-    "static/media/PasswordGenerator.PNG": "/React-Portfolio/static/media/PasswordGenerator.91932b6c.PNG",
-    "static/media/cohortcorner.png": "/React-Portfolio/static/media/cohortcorner.ab9d9df7.png",
-    "static/media/sellyostuff.PNG": "/React-Portfolio/static/media/sellyostuff.038c7dec.PNG",
-    "static/media/weatherdashboard.PNG": "/React-Portfolio/static/media/weatherdashboard.c072a575.PNG"
+    "main.css": "/ReactPortfolio/static/css/main.141ee8d5.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.fb47ff8c.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.fb47ff8c.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.ec79a307.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.ec79a307.js.map",
+    "static/js/2.2cbbcfaa.chunk.js": "/ReactPortfolio/static/js/2.2cbbcfaa.chunk.js",
+    "static/js/2.2cbbcfaa.chunk.js.map": "/ReactPortfolio/static/js/2.2cbbcfaa.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.435f6a40698241bbc8e3f6f2749d5ff8.js": "/ReactPortfolio/precache-manifest.435f6a40698241bbc8e3f6f2749d5ff8.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.141ee8d5.chunk.css.map": "/ReactPortfolio/static/css/main.141ee8d5.chunk.css.map",
+    "static/js/2.2cbbcfaa.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.2cbbcfaa.chunk.js.LICENSE.txt",
+    "static/media/BoozyFood.PNG": "/ReactPortfolio/static/media/BoozyFood.e68427c9.PNG",
+    "static/media/PasswordGenerator.PNG": "/ReactPortfolio/static/media/PasswordGenerator.91932b6c.PNG",
+    "static/media/cohortcorner.png": "/ReactPortfolio/static/media/cohortcorner.ab9d9df7.png",
+    "static/media/sellyostuff.PNG": "/ReactPortfolio/static/media/sellyostuff.038c7dec.PNG",
+    "static/media/weatherdashboard.PNG": "/ReactPortfolio/static/media/weatherdashboard.c072a575.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad880b05.js",
+    "static/js/runtime-main.ec79a307.js",
     "static/js/2.2cbbcfaa.chunk.js",
     "static/css/main.141ee8d5.chunk.css",
-    "static/js/main.fb4c6f63.chunk.js"
+    "static/js/main.fb47ff8c.chunk.js"
   ]
 }
