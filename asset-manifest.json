@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.dfbd0e75.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.141ee8d5.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.fb4c6f63.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.fb4c6f63.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ad880b05.js",
@@ -8,9 +8,9 @@
     "static/js/2.2cbbcfaa.chunk.js": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js",
     "static/js/2.2cbbcfaa.chunk.js.map": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.007a71f33c4959d17546b7fa82111beb.js": "/React-Portfolio/precache-manifest.007a71f33c4959d17546b7fa82111beb.js",
+    "precache-manifest.abecf64bb6b5819cbaf893b59a991228.js": "/React-Portfolio/precache-manifest.abecf64bb6b5819cbaf893b59a991228.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/main.dfbd0e75.chunk.css.map": "/React-Portfolio/static/css/main.dfbd0e75.chunk.css.map",
+    "static/css/main.141ee8d5.chunk.css.map": "/React-Portfolio/static/css/main.141ee8d5.chunk.css.map",
     "static/js/2.2cbbcfaa.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.2cbbcfaa.chunk.js.LICENSE.txt",
     "static/media/BoozyFood.PNG": "/React-Portfolio/static/media/BoozyFood.e68427c9.PNG",
     "static/media/PasswordGenerator.PNG": "/React-Portfolio/static/media/PasswordGenerator.91932b6c.PNG",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ad880b05.js",
     "static/js/2.2cbbcfaa.chunk.js",
-    "static/css/main.dfbd0e75.chunk.css",
+    "static/css/main.141ee8d5.chunk.css",
     "static/js/main.fb4c6f63.chunk.js"
   ]
 }
